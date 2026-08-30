@@ -838,6 +838,21 @@
       "license": "Snap developer documentation terms; citation only",
       "redistribution": "metadata-only",
       "claim_ids": ["CLM-0209"]
+    },
+    {
+      "id": "marketingskills-repo",
+      "title": "coreyhaines31/marketingskills Agent Skills library",
+      "locator": "https://github.com/coreyhaines31/marketingskills",
+      "source_type": "github-repo",
+      "authority_tier": 3,
+      "retrieved_at": "2026-08-30",
+      "refresh_due": "2026-09-29",
+      "version": "e55de886fe7580ec75cdb7ded5092b33f7d4ed58",
+      "confidence": "medium",
+      "license": "MIT",
+      "redistribution": "metadata-only",
+      "claim_ids": ["CLM-0210"],
+      "notes": "Community MIT-licensed Agent Skills library for marketing surfaces adjacent to paid advertising (SEO, CRO, copywriting, email, retention, sales enablement, and strategy). Referenced for discovery only; not incorporated as an executable Claude Ads capability."
     }
   ]
 }

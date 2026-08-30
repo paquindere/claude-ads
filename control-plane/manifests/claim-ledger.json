@@ -529,6 +529,18 @@
       "last_verified": "2026-07-11",
       "refresh_due": "2026-08-10",
       "owner": "native-export-owner"
+    },
+    {
+      "id": "CLM-0210",
+      "statement": "As of commit e55de886fe7580ec75cdb7ded5092b33f7d4ed58, the coreyhaines31/marketingskills MIT-licensed library contains 50 marketing skills covering SEO, CRO, copywriting, email/SMS, retention, growth, sales enablement, and strategy, complementary to and outside Claude Ads' twelve-platform paid-advertising contract.",
+      "scope": "external community skill library inventory at the reviewed commit",
+      "classification": "practitioner",
+      "verdict": "verified",
+      "source_ids": ["marketingskills-repo"],
+      "load_bearing": false,
+      "last_verified": "2026-08-30",
+      "refresh_due": "2026-09-29",
+      "owner": "cross-platform-reference-owner"
     }
   ]
 }

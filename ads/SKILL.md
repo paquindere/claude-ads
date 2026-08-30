@@ -74,6 +74,9 @@ valid when their meaning is unambiguous:
 - A stale or expired platform claim -> research refresh, then validation.
 - Credential or token storage -> setup; install safety -> setup; uninstall safety
   and ownership checks -> validate.
+- A request outside the twelve-platform contract and its cross-platform
+  workflows (organic SEO, non-paid CRO, lifecycle email, sales enablement) ->
+  `references/adjacent-marketing-skills.md`; do not audit or score it here.
 
 ## Platform contract
 
@@ -303,6 +306,9 @@ never hardcode `~/.claude`. Load only what the request needs:
 - `references/mcp-integration.md`: integration and approval boundaries.
 - `references/additional-platforms.md`: evidence gates for channels outside the
   twelve-platform product contract; load only for adjacent-channel planning.
+- `references/adjacent-marketing-skills.md`: discovery pointer to an external
+  library for marketing work outside the paid-advertising contract (SEO, CRO,
+  email, sales enablement); load only when a request falls outside scope.
 - `references/automation-tier-classifier.md`: account automation maturity.
 - `references/status-contract.md`: deterministic `/ads status` and `/ads next` evidence and priority rules.
 - `references/prompt-patterns.md`: worked routing, worker, evidence, mutation, and
