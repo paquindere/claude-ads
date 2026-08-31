@@ -138,6 +138,20 @@ bash uninstall.sh --target=claude
 
 The PowerShell equivalent is `uninstall.ps1`.
 
+## Related resources
+
+Claude Ads is scoped to paid-media operations across the twelve platforms
+above. For adjacent, non-paid-media marketing work (conversion optimization,
+copywriting, SEO, email, analytics, and growth), the independent, third-party
+[Marketing Skills](https://github.com/coreyhaines31/marketingskills)
+marketplace is not affiliated with, audited by, or endorsed by this project;
+review its source before installing. Its Claude Code plugin flow is:
+
+```text
+/plugin marketplace add coreyhaines31/marketingskills
+/plugin install marketing-skills
+```
+
 ## Architecture
 
 <p align="center">
